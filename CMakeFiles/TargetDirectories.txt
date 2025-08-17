@@ -1,0 +1,3 @@
+C:/Users/mttar/OneDrive/Documents/Learning/STM32_BareMetal/Firmware/Tarvs_STM32F302x8_HAL_LL_Library/CMakeFiles/bare_metal.dir
+C:/Users/mttar/OneDrive/Documents/Learning/STM32_BareMetal/Firmware/Tarvs_STM32F302x8_HAL_LL_Library/CMakeFiles/edit_cache.dir
+C:/Users/mttar/OneDrive/Documents/Learning/STM32_BareMetal/Firmware/Tarvs_STM32F302x8_HAL_LL_Library/CMakeFiles/rebuild_cache.dir
